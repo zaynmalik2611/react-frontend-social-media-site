@@ -1,0 +1,32 @@
+.user-profile {
+  height: 599px;
+}
+.user-profile-cover {
+  background-image: url("../images/profile-banner.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 50%;
+  padding-top: 30px;
+  text-align: center;
+}
+.user-profile-pic {
+  background-image: url("../images/anxiety1.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  margin: auto;
+}
+.user-profile-info {
+  color: white;
+}
+
+.user-profile-info p {
+  margin-bottom: 4px;
+}
+
+.profile-username {
+  font-size: 18px;
+  font-weight: 500;
+}

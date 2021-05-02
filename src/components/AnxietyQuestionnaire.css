@@ -1,0 +1,24 @@
+.questionnaire-header {
+  height: 150px;
+  background-color: #1786fd;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding: 45px;
+  margin-top: 50px;
+}
+.quest-form {
+  margin: 50px 35px;
+}
+
+.question {
+  margin: 25px 0px;
+}
+
+.answer-div {
+  margin-left: 400px;
+}
+select {
+  display: block;
+  overflow: hidden;
+}

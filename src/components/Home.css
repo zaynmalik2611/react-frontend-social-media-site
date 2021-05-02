@@ -1,0 +1,61 @@
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.096)),
+    url("../images/Mental-Health.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hero-text {
+  text-align: center;
+  color: white;
+  height: 599px;
+  padding: 220px 0px;
+}
+
+#illness-posts {
+  padding: 70px 0px 40px;
+}
+
+.anxiety-card {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.404), rgba(0, 0, 0, 0.404)),
+    url("../images/anxiety2.png");
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 30px;
+  height: 550px;
+}
+.depression-card {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.404), rgba(0, 0, 0, 0.404)),
+    url("../images/depression.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 30px;
+  height: 550px;
+}
+
+.card-inner-content {
+  padding: 160px 30px;
+
+  text-align: center;
+}
+
+.card-inner-content h1 {
+  font-family: Raleway Semi Bold;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  margin-bottom: 30px;
+  line-height: 42px;
+}
+
+.card-inner-content p {
+  font-family: Raleway;
+  color: rgb(255, 255, 255);
+  font-size: 21px;
+  margin-bottom: 40px;
+}
+
+.about-us {
+  width: 80%;
+  padding-left: 50px;
+}
